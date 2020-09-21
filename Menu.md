@@ -8,10 +8,14 @@
 
 ## Lunch Menu
 
-Coming soon.
+| Item                                   | Price |
+|:---------------------------------------|------:|
+| red curry                              |  120  |
+| stir fried chill                       |  80   |
+| green curry                            |  100  |
+| ting tong curry                        |  80   |
 
-etc.
 
----
+
 
 We accept PromptPay, KUPay, Alipay, and cash. Sorry, no credit cards.
