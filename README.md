@@ -11,5 +11,5 @@ Beverages
 
 | Name      | Role      | Github   |
 |:----------|-----------|----------|
-| Phakarat  | Luch Menu | @pakarat044 |
+| Phakarat  | Lunch Menu | @pakarat044 |
 | ...       | ...       | ...      |
