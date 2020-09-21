@@ -13,5 +13,5 @@ Beverages
 | ...       | ...       | ...      |
 | ...       | ...       | ...      |
 | ...       | ...       | ...      |
-| Pittayut  | Night Food Menu | RitoruX |
+| Pittayut  | Night Food Menu | @RitoruX |
 | ...       | ...       | ...      |
