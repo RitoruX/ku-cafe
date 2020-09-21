@@ -1,6 +1,6 @@
 # KU Cafe
 
-Breakfast Menu
+[Breakfast Menu](Menu.md#breakfast-menu)
 Lunch Menu
 Dinner Menu
 [Night Food Menu](Menu.md#night-food-menu)
@@ -10,8 +10,6 @@ Beverages
 
 | Name      | Role      | Github   |
 |:----------|-----------|----------|
-| ...       | ...       | ...      |
-| ...       | ...       | ...      |
-| ...       | ...       | ...      |
+| Pitchapa Sae-lim | Breakfast Menu | @PitchapaSaelim |
 | Pittayut  | Night Food Menu | @RitoruX |
-| ...       | ...       | ...      |
+
