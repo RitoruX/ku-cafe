@@ -13,6 +13,12 @@
 
 ## Lunch Menu
 
+| Item                                   | Price |
+|:---------------------------------------|------:|
+| red curry                              |  120  |
+| stir fried chill                       |  80   |
+| green curry                            |  100  |
+| ting tong curry                        |  80   |
 
 ## Night Food Menu
 
@@ -24,12 +30,6 @@
 | Olive & Mushroom Pizza                 | 230.0 |
 | Aaloo Grilled Sandwich                 | 120.0 |
 | Paneer Grilled Sandwich                | 140.0 |
-
-Coming soon.
-
-etc.
-
----
 
 ## Dinner Menu
 
