@@ -4,7 +4,12 @@
 
 | Item                                   | Price |
 |:---------------------------------------|------:|
-| nothing yet                            |  0.0  |
+| Tart and coffee                        |  99.0 |
+| Pancakes and fried eggs                | 129.0 |
+| Donuts and coffee                      | 119.0 |
+| Croissant and coffee                   |  99.0 |
+| French toast                           |  89.0 |
+| Salad                                  |  79.0 |
 
 ## Lunch Menu
 
@@ -15,7 +20,15 @@
 | green curry                            |  100  |
 | ting tong curry                        |  80   |
 
+## Night Food Menu
 
-
+| Item                                   | Price |
+|:---------------------------------------|------:|
+| Double Beef Burger                     | 160.0 |
+| Hungry Veg. Burgur                     |  80.0 |
+| Margarita Pizza                        | 190.0 |
+| Olive & Mushroom Pizza                 | 230.0 |
+| Aaloo Grilled Sandwich                 | 120.0 |
+| Paneer Grilled Sandwich                | 140.0 |
 
 We accept PromptPay, KUPay, Alipay, and cash. Sorry, no credit cards.
